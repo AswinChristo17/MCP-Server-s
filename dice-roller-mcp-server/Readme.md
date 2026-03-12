@@ -87,5 +87,4 @@ echo '{"jsonrpc":"2.0","method":"tools/list","id":1}' | python dice_roller_serve
 
 ## License
 
-
 MIT License
